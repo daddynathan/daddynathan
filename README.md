@@ -1,16 +1,17 @@
-## Hi there 👋
+# dallorin\\piggypie
 
-<!--
-**daddynathan/daddynathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code. You pay. We both win.
 
-Here are some ideas to get you started:
+## About me🔨
+- 15 y.o. | rus / eng  
+- Backend on Go • Tboi modder • SQL & Docker (etc.) 
+- Telegram bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+- TG: @piggypie_ggs
+
+> Беру заказы, обьясняю свой код и прочее:)
+
+#### Also
+
+Ищу друзей гоферов. Желательно сверстники. Активно развиваюсь в сфере IT, прохожу собесы
